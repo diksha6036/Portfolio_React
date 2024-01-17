@@ -1,0 +1,68 @@
+h2{
+    margin-left: 15rem;
+    margin-top: -14rem;
+    color:floralwhite;
+    /* font-family: 'Satisfy', cursive; */
+    /* font-family: 'Croissant One', cursive; */
+    font-family: 'EB Garamond', serif;
+    font-size: 2rem;
+
+}
+h3{
+    margin-left: 15rem;
+    font-family: 'EB Garamond', serif;
+    font-size: 2rem;
+    color:floralwhite;
+}
+.Diksha{
+    color:rgb(109, 203, 234);
+}
+.textt{
+    color:rgb(109, 203, 234);
+}
+.button1{
+    margin-top: 1.3rem;
+    width: 7.2rem;
+    height: 2.7rem;margin-left: 15rem;
+    border-radius: 6px;
+    border: none;
+    font-size: 1.2rem;
+    background-color:beige;
+
+}
+.button1:hover{
+    margin-top: 1.3rem;
+    width: 7.2rem;
+    height: 2.7rem;margin-left: 15rem;
+    border-radius: 6px;
+    border: none;
+    font-size: 1.2rem;
+    background-color: transparent;
+    border: 1px solid beige;
+    color: beige;
+}
+
+.button2{
+    width: 7.2rem;
+    height: 2.7rem;
+    margin-left: 1.3rem;
+    border-radius: 6px;
+    border: none;
+    font-size: 1.2rem;
+    background-color:transparent;
+    border: 1px solid beige;
+    color: beige;
+}
+.button2:hover{
+    width: 7.2rem;
+    height: 2.7rem;
+    margin-left: 1.3rem;
+    border-radius: 6px;
+    border: none;
+    font-size: 1.2rem;
+    background-color: beige;
+    color: black;
+}
+.linkc{
+    text-decoration: none;
+}

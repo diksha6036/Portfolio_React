@@ -1,0 +1,72 @@
+.cont{
+    margin-top: 8rem;
+    margin-left: 15rem;
+    width: 50%;
+}
+.Heading{
+    color:floralwhite;
+    font-family: 'Satisfy', cursive;
+    font-size: 2rem;
+    text-shadow: none;
+    margin-bottom: 1rem;
+}
+.Heading:hover{
+   
+    text-shadow: none;
+  
+}
+.Diksha{
+    color:rgb(109, 203, 234);
+}
+.FSD{
+    margin-top: 1rem;
+    color:rgb(109, 203, 234);
+    font-family: 'Satisfy', cursive;
+    font-size: 1.7rem;
+}
+.sec{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    color:floralwhite;
+    font-size: 1rem;
+}
+.sec span{
+    font-family: 'Satisfy', cursive;
+    font-size: 1.4rem;
+}
+.third{
+    margin-top: 1rem;
+    color:rgb(109, 203, 234);
+    font-family: 'Satisfy', cursive;
+    font-size: 1.7rem;
+}
+.fourth{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    color:floralwhite;
+    font-size: 1rem;
+}
+.fourth span{
+    font-family: 'Satisfy', cursive;
+    font-size: 1.4rem;
+}
+.fifth{
+    color:rgb(109, 203, 234);
+    font-family: 'Satisfy', cursive;
+    font-size: 1.7rem;
+}
+.sixth{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    color:floralwhite;
+    font-size: 1rem;
+}
+.sixth span{
+    font-family: 'Satisfy', cursive;
+    font-size: 1.4rem;
+}
+.copyyy{
+    margin-top:1rem;
+        text-align: center;
+        color:floralwhite;
+}
